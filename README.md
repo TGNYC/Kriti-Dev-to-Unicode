@@ -2,8 +2,6 @@
 
 a simple, stand-alone Node JS script that converts to and from Kruti Dev and Unicode
 
-adapted from https://unicode2krutidev.com/
-
 ## Usage
 
 1. Put your input text into the `input.txt`.
